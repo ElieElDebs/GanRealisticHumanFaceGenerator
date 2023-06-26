@@ -116,7 +116,7 @@ __pypackages__/
 
 
 # Dataset
-data
+data/data
 
 # Generated Faces
 images
